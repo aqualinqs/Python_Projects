@@ -1,8 +1,8 @@
-🚛🌍 **EmissoNavi: Driving Sustainability in Supply Chain Management**  
-**AI-Driven Carbon Footprint Optimization with Python and Streamlit**  
+🚛🌍 **IndustriCO2: Achieving Sustainability in Supply Chain Management**  
+**AI-Driven Carbon Footprint Optimization with DjangoPython and Streamlit**  
 
 **🌱 About the Application**  
-**EmissoNavi** is an intelligent Python-based tool designed to measure, analyze, and minimize carbon emissions across transportation and supply chains. By leveraging machine learning and historical data, it provides actionable insights and dynamic visualizations, enabling businesses and individuals to make informed, eco-conscious decisions and reduce their environmental impact.  
+**IndustriCO2** is an intelligent Django-based tool designed to measure, analyze, and minimize carbon emissions across transportation and supply chains. By leveraging machine learning and historical data, it provides actionable insights and dynamic visualizations, enabling businesses and individuals to make informed, eco-conscious decisions and reduce their environmental impact.  
 
 ---
 
@@ -17,7 +17,7 @@
 
 ### 🛠️ **Technology Stack**  
 - **💻 Programming Language:** Python  
-- **⚙️ Framework:** Streamlit  
+- **⚙️ Framework:** Django
 - **📊 Visualization Tools:** Plotly, Matplotlib  
 - **☁️ Deployment Platform:** Streamlit Cloud  
 - **📚 Libraries:** NumPy, Pandas  
@@ -32,4 +32,4 @@
 
 ---
 
-**EmissoNavi** empowers businesses and individuals to embrace sustainability with data-driven insights and practical solutions for greener supply chains! 🌱✨  
+**IndustriCO2** empowers businesses and individuals to embrace sustainability with data-driven insights and practical solutions for greener supply chains! 🌱✨  
