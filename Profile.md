@@ -1,6 +1,6 @@
 **Python Projects**
 
-*Specialized in Django framework*
+***Specialized in Django framework***
 
 **Hello 👋 There!!**
 
