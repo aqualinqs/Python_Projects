@@ -1,35 +1,97 @@
-🚛🌍 **IndustriCO2: Achieving Sustainability in Supply Chain Management**  
-**AI-Driven Carbon Footprint Optimization with DjangoPython and Streamlit**  
+# Online Course App with Django
 
-**🌱 About the Application**  
-**IndustriCO2** is an intelligent Django-based tool designed to measure, analyze, and minimize carbon emissions across transportation and supply chains. By leveraging machine learning and historical data, it provides actionable insights and dynamic visualizations, enabling businesses and individuals to make informed, eco-conscious decisions and reduce their environmental impact.  
+## Introduction
+
+I developed an Online Course App using Django. The app facilitates course management, enrollment, and assessments for learners. It features models for instructors, learners, courses, lessons, enrollments, questions, choices, and submissions, providing a comprehensive solution for online education.
+
+## Features
+
+- User registration and authentication
+- Course creation and management
+- Enrollment system for courses
+- Lesson content organization
+- Assessment through questions and choices
+- Submission tracking and result calculation
+
+## Technologies Used
+
+- **Django**: The main web framework used for developing the app
+- **Python**: The programming language used
+- **SQLite**: Database used for development
+- **HTML/CSS**: For frontend templates
+
+## Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/venkatesh-reddi/Online-Course.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd Online-Course
+    ```
+
+3. Create and activate a virtual environment:
+
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    ```
+
+4. Install the dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+5. Apply the migrations:
+
+    ```bash
+    python manage.py migrate
+    ```
+
+6. Create a superuser:
+
+    ```bash
+    python manage.py createsuperuser
+    ```
+
+7. Run the development server:
+
+    ```bash
+    python manage.py runserver
+    ```
+
+## Usage
+
+1. Access the app at `http://127.0.0.1:8000`.
+2. Register as a new user or log in with the superuser credentials.
+3. Create and manage courses, enroll learners, and organize lessons.
+4. Learners can enroll in courses, submit assessments, and view their results.
+
+## Entity Relationship Diagram
+
+You can view the entity relationship diagram below.
+
+![Onlinecourse ER Diagram](https://github.com/venkatesh-reddi/Online-Course/blob/main/static/media/course_images/onlinecourse_app_er.png)
+
+## Contribution
+
+Feel free to contribute to this project by opening issues and submitting pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is licensed under the Apache 2.0 License.
 
 ---
 
-### 🌟 **Key Highlights**  
-- **📊 Emission Analysis:** Calculate carbon emissions across roads, rails, seas, and air with detailed breakdowns.  
-- **📈 Interactive Dashboards:** Utilize Streamlit and Plotly for engaging charts, comparisons, and visual trends.  
-- **🎯 Smart Recommendations:** Offer tailored suggestions to reduce emissions based on user inputs.  
-- **🚚 Multi-Mode Support:** Analyze transportation emissions for trucks, cars, bikes, and more.  
-- **🌍 Awareness Tools:** Educate users on the environmental impact of different transport methods.  
+Happy coding! If you have any questions or need further assistance, please don't hesitate to reach out.
 
 ---
 
-### 🛠️ **Technology Stack**  
-- **💻 Programming Language:** Python  
-- **⚙️ Framework:** Django
-- **📊 Visualization Tools:** Plotly, Matplotlib  
-- **☁️ Deployment Platform:** Streamlit Cloud  
-- **📚 Libraries:** NumPy, Pandas  
+Venkatesh Reddi
 
----
-
-### ⚙️ **How It Works**  
-1. **📝 Data Input:** Users enter transportation and shipment details.  
-2. **🧠 Machine Learning Models:** Analyze historical data to calculate and predict emissions.  
-3. **📉 Visual Insights:** Display trends and comparisons through interactive graphs and charts.  
-4. **🌿 Eco-Friendly Suggestions:** Recommend alternative strategies for emission reduction based on results.  
-
----
-
-**IndustriCO2** empowers businesses and individuals to embrace sustainability with data-driven insights and practical solutions for greener supply chains! 🌱✨  
+[GitHub Profile](https://github.com/venkatesh-reddi) | [LinkedIn Profile](https://linkedin.com/in/venkateshreddi)
