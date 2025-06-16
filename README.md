@@ -1,4 +1,4 @@
-# Online Course App with Django
+# ilearn digital App with Django
 
 ## Introduction
 
@@ -13,7 +13,7 @@ I developed an Online Course App using Django. The app facilitates course manage
 - Assessment through questions and choices
 - Submission tracking and result calculation
 
-## Technologies Used
+## Tech stack
 
 - **Django**: The main web framework used for developing the app
 - **Python**: The programming language used
@@ -25,7 +25,7 @@ I developed an Online Course App using Django. The app facilitates course manage
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/venkatesh-reddi/Online-Course.git
+   git clone https://github.com/aqualinqs/Python_Projects/Online-Course.git
     ```
 
 2. Navigate to the project directory:
@@ -76,7 +76,7 @@ I developed an Online Course App using Django. The app facilitates course manage
 
 You can view the entity relationship diagram below.
 
-![Onlinecourse ER Diagram](https://github.com/venkatesh-reddi/Online-Course/blob/main/static/media/course_images/onlinecourse_app_er.png)
+![Onlinecourse ER Diagram](https://github.com/aqualinqs/Python_Projects/Online-Course/blob/main/static/media/course_images/onlinecourse_app_er.png)
 
 ## Contribution
 
@@ -92,6 +92,6 @@ Happy coding! If you have any questions or need further assistance, please don't
 
 ---
 
-Venkatesh Reddi
+**Shammah_BI Analyst**
 
-[GitHub Profile](https://github.com/venkatesh-reddi) | [LinkedIn Profile](https://linkedin.com/in/venkateshreddi)
+[GitHub Profile](https://github.com/aqualinqs)
